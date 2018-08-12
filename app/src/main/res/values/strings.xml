@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TeamOne</string>
+
+    <string name="computer_label">Computer</string>
+    <string name="sport_label">Sport</string>
+    <string name="more_label">More</string>
+    <string name="title_new_arrival">New Arrival</string>
+</resources>
